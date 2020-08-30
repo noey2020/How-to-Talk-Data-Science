@@ -57,6 +57,8 @@ oversamples and undersamples at the same time. Representative of real data.
 
 TBC
 
+Reading of the Day is "A Tale of Two Cities, Resurrection or Death!".
+
 I included some posts for reference.
 
 https://github.com/noey2020/How-to-Talk-Fundamental-Analysis
