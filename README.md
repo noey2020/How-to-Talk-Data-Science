@@ -52,6 +52,18 @@ First, you need to frame the problem: is it supervised, unsupervised, or Reinfor
 Learning? Is it a classification task, a regression task, or something else? Should
 you use batch learning or online learning techniques?
 
+Select a Performance Measure
+
+Your next step is to select a performance measure. A typical performance measure for
+regression problems is the Root Mean Square Error (RMSE). It gives an idea of how
+much error the system typically makes in its predictions, with a higher weight for
+large errors.
+
+RMSE X, h = 1m
+S i = 1
+m
+h x i - y i 2
+
 ...
 ...
 
