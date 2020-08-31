@@ -45,7 +45,12 @@ area or not. Getting this right is critical, as it directly affects events and r
 The next question to ask is what the current solution looks like (if any). It will often
 give you a reference performance, as well as insights on how to solve the problem.
 
-This is costly and time-consuming, and their estimates are not great
+This is costly and time-consuming, and their estimates are not great.
+
+Okay, with all this information you are now ready to start designing your system.
+First, you need to frame the problem: is it supervised, unsupervised, or Reinforcement
+Learning? Is it a classification task, a regression task, or something else? Should
+you use batch learning or online learning techniques?
 
 ...
 ...
